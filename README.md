@@ -4,8 +4,7 @@ ECMAScript
 
 ## This repo
 
-This repository contains the source for the current draft of ECMA-262,
-the ECMAScript® Language Specification.
+This repository is Waldemar's experimental playground.
 
 This source is processed to obtain a human-readable version,
 which you can view [here](https://tc39.es/ecma262/).
